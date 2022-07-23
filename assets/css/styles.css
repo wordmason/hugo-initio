@@ -4,7 +4,7 @@ html {
 body {
   font-size: 15px;
   font-size: 0.9375rem;
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: "baskerville", "Open sans", Helvetica, Arial, sans-serif;
   color: #666666;
   padding: 0;
 }
@@ -41,7 +41,7 @@ body {
   -moz-background-clip: padding;
   border-radius: 0;
   background-clip: padding-box;
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: "baskerville", "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 300;
   text-transform: uppercase;
 }
@@ -163,7 +163,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: "baskerville", "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #333333;
 }
@@ -250,7 +250,7 @@ a:hover {
 }
 
 #head .title {
-  font-family: Alice, Georgia, serif;
+  font-family: "baskerville", "Alice", "Georgia", "serif";
   font-size: 49px;
   font-size: 3.0625rem;
 }
@@ -299,7 +299,7 @@ img {
   font-size: 0.75rem;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
   -webkit-border-radius: 0px;
   -webkit-background-clip: padding-box;
@@ -377,7 +377,7 @@ img {
 }
 .featured h3 {
   font-weight: bold;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -499,7 +499,7 @@ img {
   border: 0 none;
   font-size: 20px;
   font-size: 1.25rem;
-  font-family: Georgia, serif;
+  font-family: "baskerville", "Georgia", "serif";
 }
 .pagination > li > a:hover {
   color: #000000;
@@ -566,7 +566,7 @@ img {
 }
 .entry-header .entry-meta {
   text-align: center;
-  font-family: Georgia, serif;
+  font-family: "baskerville", "Georgia", "serif";
   font-size: 18px;
   font-size: 1.125rem;
   font-style: italic;
@@ -589,7 +589,7 @@ img {
 }
 .meta-nav,
 .more-link {
-  font-family: Georgia, serif;
+  font-family: "baskerville", "Georgia", "serif";
   font-style: italic;
   font-weight: bold;
   color: #666666;
@@ -621,7 +621,7 @@ img {
   -moz-background-clip: padding;
   border-radius: 3px;
   background-clip: padding-box;
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: "baskerville", "Open sans", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   text-decoration: none;

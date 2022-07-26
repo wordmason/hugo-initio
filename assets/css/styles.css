@@ -190,6 +190,9 @@ h5 {
 a {
   color: #bd1550;
 }
+p {
+  color: #666666;
+}
 a:hover {
   color: #e93675;
 }
@@ -271,6 +274,7 @@ a:hover {
 }
 #head .tagline a {
   color: #5E5E5E;
+  font-size: 20px;
 }
 .home #head {
   padding: 90px 0;
